@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.form {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
